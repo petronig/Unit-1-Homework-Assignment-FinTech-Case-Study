@@ -1,14 +1,17 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
 
-# TITLE
+# Financial Case Study of Kabbage, Inc.
 
 ## Overview and Origin
 
-* Name of company
+* Kabbage, Inc.
 
-* When was the company incorporated?
+* Incorporated February 12, 2009, based in Atlanta, Georgia
 
-* Who are the founders of the company?
+* Founders:
+    * Rob Frohwein, CEO
+    * Kathryn Petralia, President
+    * Marc Gorlin
 
 * How did the idea for the company (or project) come about?
 
