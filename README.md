@@ -1,6 +1,6 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
 
-# Financial Case Study of Kabbage, Inc.
+# Financial Case Study of Kabbage, Inc.        ![Nice Cabbage](/Images/nice_cabbage.jpg)
 
 ## Overview and Origin
 
@@ -16,6 +16,9 @@
 * The founders saw an opportunity during the 2008 financial crisis to USE AI to make small business lending more efficient and profitiable, without the high standards of cash flow, credit score or collateral required by banks.
 
 * The company is privately held and funded by venture capital. Funding: $489 million as of 2021 from SoftBank Vision Fund, BlueRun Ventures, Mohr Davidow Ventures and others. Latest valuation: $1.2 billion
+
+
+    ![Two Cabbages](/Images/Coupla_Cabbages.jpg)
 
 
 ## Business Activities:
@@ -40,6 +43,9 @@ In the midst of the pandemic, with many small businesses collaping and their cus
     * BlueVine - Will work with youger businesses than Kabbage 
     * Lending Club - requires longer qualification processing but if an established business with good credit, has better terms than Kabbage.
     * Headway Capital - will work with younger buisnesses and has more forgiving repayment scheme.
+    
+    
+     ![Two Cabbages](/Images/one-big-cabbage.jpg)     
 
 
 ## Results
@@ -61,3 +67,6 @@ Kabbage states that more than 90\% of the PPP applications they processed for se
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+![Two Cabbages](/Images/whole_mess_of_cabbage.jpg)    
