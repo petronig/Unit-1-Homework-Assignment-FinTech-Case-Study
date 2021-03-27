@@ -53,7 +53,7 @@
 
 * The business impact of Kabbage had been significant pre-COVID, with a large number of loans underwritten to small businesses.  However, their perceived greatest accomplishment has been as a delivery vehicle for the PPP.  
 Kabbage states that more than 90\% of the PPP applications they processed for self-employed businesses were completely automated, and that the borrower didn’t have to communicate with anyone outside of the automated process. Many of the applicants received Small Business Administration approval on the same day. Regarding the PPP, founder Rob Frohwein has said:
-> This has been fintech’s shining moment. Ten years ago there’s zero chance that most businesses we serve would’ve gotten funding. The banks would’ve only worked with much larger small businesses out there.”
+> This has been fintech’s shining moment. Ten years ago there’s zero chance that most businesses we serve would’ve gotten funding. The banks would’ve only worked with much larger small businesses out there.
 
 * Traditional core metrics for institutions in lending space:
     * Pull Through Rate (Total Loans Funded/Applications Submitted)
